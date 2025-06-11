@@ -1,0 +1,10 @@
+C:\Users\leela\Documents\embedded\stm32f051\target\thumbv6m-none-eabi\debug\deps\libfutures_core-c0a60bf5c01fc65f.rmeta: C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\lib.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\future.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\stream.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\mod.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\poll.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\__internal\mod.rs
+
+C:\Users\leela\Documents\embedded\stm32f051\target\thumbv6m-none-eabi\debug\deps\futures_core-c0a60bf5c01fc65f.d: C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\lib.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\future.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\stream.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\mod.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\poll.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\__internal\mod.rs
+
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\lib.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\future.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\stream.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\mod.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\poll.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-core-0.3.31\src\task\__internal\mod.rs:

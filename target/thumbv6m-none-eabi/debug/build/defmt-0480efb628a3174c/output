@@ -1,0 +1,4 @@
+cargo:rustc-link-search=C:\Users\leela\Documents\embedded\stm32f051\target\thumbv6m-none-eabi\debug\build\defmt-0480efb628a3174c\out
+cargo:rustc-cfg=no_cas
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)

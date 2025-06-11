@@ -1,0 +1,11 @@
+C:\Users\leela\Documents\embedded\stm32f051\target\release\deps\libsemver_parser-a5c709903942211a.rmeta: C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\lib.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\version.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\range.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\common.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\leela\Documents\embedded\stm32f051\target\release\deps\libsemver_parser-a5c709903942211a.rlib: C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\lib.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\version.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\range.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\common.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\leela\Documents\embedded\stm32f051\target\release\deps\semver_parser-a5c709903942211a.d: C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\lib.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\version.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\range.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\common.rs C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\recognize.rs
+
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\lib.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\version.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\range.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\common.rs:
+C:\Users\leela\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-parser-0.7.0\src\recognize.rs:
